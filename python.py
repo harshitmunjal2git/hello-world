@@ -10,8 +10,6 @@ def my_fun(a):
 x=my_fun(7)
 print(x)
  
-
 #lambda
 x=lambda a,b:a+b
 print(x(1,2))
-
